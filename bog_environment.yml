@@ -1,12 +1,16 @@
 name: bog_ms
+channels:
+  - conda-forge
 dependencies: 
  - pandas
  - numpy
  - matplotlib
- - sklearn
- - osgeo
+ - scikit-learn
+ - gdal
  - geopandas
  - shapely
  - fiona
  - rasterio
  - richdem
+ - elevation
+# - wget
