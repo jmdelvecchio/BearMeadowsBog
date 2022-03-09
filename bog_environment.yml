@@ -1,0 +1,12 @@
+name: bog_ms
+dependencies: 
+ - pandas
+ - numpy
+ - matplotlib
+ - sklearn
+ - osgeo
+ - geopandas
+ - shapely
+ - fiona
+ - rasterio
+ - richdem

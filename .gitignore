@@ -11,6 +11,7 @@
 !*/
 
 # if the files to be tracked are in subdirectories
+!bog_environment.yml
 !bog_paper_plots.ipynb
 !Pathole2_core_log.csv
 !PH2_grainsize.csv
