@@ -1,0 +1,27 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!test.txt
+
+# etc...
+
+# ...even if they are in subdirectories
+!*/
+
+# if the files to be tracked are in subdirectories
+!bog_paper_plots.ipynb
+!Pathole2_core_log.csv
+!PH2_grainsize.csv
+!BMS2_YASIC_pandas.csv
+!hs_core_cleaned.csv
+!stingelin_correlation_new.csv
+!oxygen.csv
+!bacon_ages3.csv
+!NGRIP_dust.csv
+!radiocarbon.csv
+!*_pct.csv
+!stingelin_correlation_new.csv
+!strat2.csv
+!bacon_sites.csv
