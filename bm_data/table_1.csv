@@ -1,0 +1,16 @@
+Sample name,Sample type,Easting (m),Northing (m),Distance from bog edge (m),Depth to base of peat (cm bgs),Total observation depth (cm bgs),Material under peat,Radiocarbon sample(s)
+A-01,auger,266748.00,4513000.00,0.00,,50.00,"fines, pebbles",
+A-02,auger,266752.00,4512830.00,110.00,230.00,245.00,boulders,
+A-03,auger,266712.00,4512900.00,35.00,130.00,245.00,"fines, boulders","BMA03top, BMA03mid"
+A-04,auger,266733.00,4512920.00,35.00,40.00,100.00,fines,BMA04BI
+A-05,auger,267253.00,4512970.00,0.00,90.00,100.00,boulders,
+T01,transect,266705.00,4512920.00,15.00,15.00,15.00,boulders,
+T02,transect,266731.00,4512890.00,50.00,150.00,150.00,boulders,
+T03,transect,266772.00,4512880.00,90.00,213.00,213.00,boulders,
+T04,transect,266800.00,4512840.00,135.00,275.00,275.00,fines,
+T05,transect,266824.00,4512790.00,190.00,275.00,275.00,fines,
+T06,transect,266820.00,4512750.00,220.00,260.00,260.00,fines,"BMT06AI, BMT06WI, BMT06BI"
+T07,transect,266759.00,4512850.00,105.00,245.00,245.00,fines,
+T08,transect,266710.00,4512800.00,110.00,182.00,182.00,boulders,
+S-01,scs,266817.00,4512790.00,190.00,414.00,476.00,fines,
+S-02,scs,266761.00,4512820.00,130.00,314.00,396.00,fines,"S02_21-22, S02_52-53  "
