@@ -1,0 +1,16 @@
+## Ran on Wed Jan 11 09:00:40 2023 
+
+Cal 0 : ConstCal;
+Cal 1 :  IntCal20 ,  0 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  0 ;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : PSU-6248 , 7785, 40, 144.78,  0,  0,  3,  4,  1;
+Det 1 : PSU-6249 , 8515, 35, 165.1,  0,  0,  3,  4,  1;
+Det 2 : PSU-6250 , 8880, 35, 226.06,  0,  0,  3,  4,  1;
+Det 3 : PSU-6645 , 9755, 45, 266.7,  0,  0,  3,  4,  1;
+Det 4 : PSU-6646 , 12520, 170, 297.18,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 32,  -73,  1e+06,  7757,  7747,  5,  5,  1.5,  0.03, 144.78, 304.78, 836972;
