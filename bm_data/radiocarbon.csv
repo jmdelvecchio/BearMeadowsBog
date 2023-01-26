@@ -1,1 +1,10 @@
-sample name,14C age (BP),unc 14C age (BP),Cal BC,Cal ka,DescriptionBMA03_Peat,7895,30,6740,8740,"Bear Meadows, PA. BM-A-03 1 of 4 peat"BMA03_Mid,11980,45,11912.5,13912.5,"BMA03mid. 30 m from bog edge, 8 feet below surface, within sediment"BMT06AI,7785,40,6594.5,8594.5,"BMT06AI. 210 m from bog edge, 8-9 ft below surface, above peat/sed int"BMT06WI,8515,35,7560,9560,"BMT06WI. 210 m from bog edge, 8-9 ft below surface, in peat/sed int"BMT06BI,8880,35,8083.5,10083.5,"BMT06BI. 210 m from bog edge, 8-9 ft below surface, below peat/sed int"BMA04BI,8825,35,7880,9880,"BMA04BI. 50 m from bog edge, 9 ft below surface, within sediment"S-02-21-22,9755,45,9227.5,11227.5,"2-2 21-22 cm. Pat Hole 2, buried organic horizon"S-02-52-53,12520,170,12745.5,14745.5,"2-5 52-53 cm. Pat Hole 2, toward bottom: ~0.02mg C"
+sample name,PSU AMS no,14C age (BP),unc 14C age (BP),median Cal BC,median Cal ka,Description
+BMA03_Peat,5533,7895,30,6749,8699,"Bear Meadows, PA. BM-A-03 1 of 4 peat"
+BMA03_Mid,6246,11980,45,11945,13895,"BMA03mid. 30 m from bog edge, 8 feet below surface, within sediment"
+BMT06AI,6248,7785,40,6609,8559,"BMT06AI. 210 m from bog edge, 8-9 ft below surface, above peat/sed int"
+BMT06WI,6249,8515,35,7559,9509,"BMT06WI. 210 m from bog edge, 8-9 ft below surface, in peat/sed int"
+BMT06BI,6250,8880,35,8072,10022,"BMT06BI. 210 m from bog edge, 8-9 ft below surface, below peat/sed int"
+BMA04BI,6643,8825,35,7925,9875,"BMA04BI. 50 m from bog edge, 9 ft below surface, within sediment"
+S-02-0,12250,8370,30,7458,9408,"S-02, top of core"
+S-02-21-22,6645,9755,45,9248,11198,2-2 21-22 cm. S-02 buried organic horizon
+S-02-52-53,6646,12520,170,12771,14721,2-5 52-53 cm. S-02 toward bottom: ~0.02mg C
